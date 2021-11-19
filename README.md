@@ -1,2 +1,2 @@
-# C-E-itim-Uygulamalar-
+# C-Egitim-Uygulamalari
 Üniversite`de görebileceğiniz basit C uygulamaları
